@@ -1,0 +1,7 @@
+#Mon Oct 16 14:06:26 PDT 2017
+base.0=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34ca62e77df66d79577d447c5e6125f1d1b15e93
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78cc72d904e2b7e99ec2b580a2dddc90b524da89/classes.dex
+base.1=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_78cc72d904e2b7e99ec2b580a2dddc90b524da89
+file.0=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34ca62e77df66d79577d447c5e6125f1d1b15e93/classes.dex

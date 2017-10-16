@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Mon Oct 16 14:06:22 PDT 2017
+2.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/icon.png
+5.set=ANDROID_RESOURCE
+3.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+2.set=ANDROID_RESOURCE
+4.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+7.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/next.png
+7.set=ANDROID_RESOURCE
+count=10
+0.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/layout/musicitme.xml
+5.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+8.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/pause.png
+4.set=ANDROID_RESOURCE
+6.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/layout/main.xml
+9.set=ANDROID_RESOURCE
+9.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/start.png
+1.set=ANDROID_RESOURCE
+7.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+2.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/stop.png
+6.set=ANDROID_RESOURCE
+0.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+8.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+3.set=ANDROID_RESOURCE
+1.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+9.base=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/resources-debug.ap_/res/drawable/last.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/stop.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/start.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/start.png"
+    },
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/last.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/last.png"
+    },
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/pause.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/build/intermediates/res/merged/debug/drawable/icon.png",
+        "source": "/Users/caoranran/Downloads/Examples_07_01 播放音乐/app/src/main/res/drawable/icon.png"
+    }
+]
